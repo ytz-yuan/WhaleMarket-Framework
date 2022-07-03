@@ -1,0 +1,8 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ubuntu/WhaleMarket-Framework'
+gcc  -I include    -c -o src/tools/hint.o src/tools/hint.c
+gcc  -I include    -c -o src/tools/color.o src/tools/color.c
+gcc  -I include    -c -o src/main.o src/main.c
+gcc  -o main  src/tools/hint.o src/tools/color.o src/main.o 
+make: Leaving directory '/home/ubuntu/WhaleMarket-Framework'
+ 
