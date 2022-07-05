@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jul  3 21:19:52 2022
+# Make data base, printed on Tue Jul  5 14:16:42 2022
 
 # Variables
 
@@ -61,7 +61,7 @@ LESSOPEN = | /usr/bin/lesspipe %s
 # environment
 VSCODE_CWD = /home/ubuntu
 # environment
-SSH_CONNECTION = 1.85.33.70 13089 10.0.24.7 22
+SSH_CONNECTION = 1.85.33.70 27703 10.0.24.7 22
 # environment
 PATH = /home/ubuntu/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/bin/remote-cli:/home/ubuntu/miniconda3/bin:/home/ubuntu/miniconda3/bin:/home/ubuntu/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 # environment
@@ -83,7 +83,7 @@ VSCODE_PIPE_LOGGING = true
 # environment
 PWD = /home/ubuntu/WhaleMarket-Framework
 # environment
-VSCODE_IPC_HOOK_CLI = /run/user/500/vscode-ipc-3b6ef01e-d79f-4d3d-a621-e302eed5dd43.sock
+VSCODE_IPC_HOOK_CLI = /run/user/500/vscode-ipc-17db5895-6087-4693-b862-4f9673364840.sock
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -119,7 +119,7 @@ SHLVL = 3
 # makefile (from 'Makefile', line 4)
 CC = gcc 
 # environment
-XDG_SESSION_ID = 243794
+XDG_SESSION_ID = 250848
 # environment
 USER = ubuntu
 # makefile
@@ -139,7 +139,7 @@ MAKEFLAGS = pqrR
 # environment
 MFLAGS = -pqrR
 # environment
-SSH_CLIENT = 1.85.33.70 13089 22
+SSH_CLIENT = 1.85.33.70 27703 22
 # environment
 MAIL = /var/mail/ubuntu
 # automatic
@@ -273,6 +273,6 @@ src/tools/color.o:
 # strcache performance: lookups = 32 / hit rate = 25%
 # hash-table stats:
 # Load=24/8192=0%, Rehash=0, Collisions=1/32=3%
-# Finished Make data base on Sun Jul  3 21:19:52 2022
+# Finished Make data base on Tue Jul  5 14:16:42 2022
 
  
